@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/topAppBar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:elevation="0dp"
+            app:menu="@menu/news_app_bar_menu"
+            app:navigationIcon="@drawable/round_menu_24"
+            app:subtitle="@string/news_app_bar_sub_title"
+            app:subtitleCentered="true"
+            app:subtitleTextAppearance="@style/TextAppearance.AppCompat.Small"
+            app:title="@string/news_title"
+            app:titleCentered="true" />
+
+
+        <com.google.android.material.progressindicator.LinearProgressIndicator
+            android:id="@+id/news_linear_progress_indicator"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:indeterminate="true"
+            app:trackCornerRadius="5dp"
+            app:trackThickness="4dp" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <!-- Note: A RecyclerView can also be used -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/news_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:listitem="@layout/item_new_row" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

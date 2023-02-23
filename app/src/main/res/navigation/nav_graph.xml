@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/newsFragment">
+
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.kerimbr.kotnews.presentation.views.news.NewsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" >
+        <action
+            android:id="@+id/action_newsFragment_to_newDetailFragment"
+            app:destination="@id/newDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.kerimbr.kotnews.presentation.views.search.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" >
+        <action
+            android:id="@+id/action_searchFragment_to_newDetailFragment"
+            app:destination="@id/newDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookmarksFragment"
+        android:name="com.kerimbr.kotnews.presentation.views.bookmarks.BookmarksFragment"
+        android:label="fragment_bookmarks"
+        tools:layout="@layout/fragment_bookmarks" >
+        <action
+            android:id="@+id/action_bookmarksFragment_to_newDetailFragment"
+            app:destination="@id/newDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newDetailFragment"
+        android:name="com.kerimbr.kotnews.presentation.views.new_details.NewDetailFragment"
+        android:label="fragment_new_detail"
+        tools:layout="@layout/fragment_new_detail" >
+        <argument
+            android:name="article"
+            app:argType="com.kerimbr.kotnews.data.models.news.Article" />
+    </fragment>
+</navigation>

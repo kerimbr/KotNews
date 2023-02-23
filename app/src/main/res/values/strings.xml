@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kotlin News App</string>
+    <string name="news">News</string>
+    <string name="search">Search</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="news_title">News</string>
+    <string name="search_title">Search</string>
+    <string name="bookmarks_title">Bookmarks</string>
+
+    <string name="placeholder">
+        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+        ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="searchbar_hint">Search News…</string>
+    <string name="search_news_title">Search News</string>
+    <string name="news_app_bar_sub_title">Follow the breaking news</string>
+    <string name="source_code">Source Code</string>
+    <string name="search_news_subtitle">Search for current news</string>
+    <string name="bookmarks_news_subtitle">My favorite news</string>
+    <string name="bookmarks_empty_view">Bookmarks are empty</string>
+
+</resources>

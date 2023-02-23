@@ -1,0 +1,201 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Bird flu alarm drives world towards once-shunned vaccines - Reuters.com",
+      "description": "French duck farmer Herve Dupouy has culled his flock four times since 2015 to stop the spread of bird flu but as a wave of deadly outbreaks nears his farm once again, he says it's time to accept a solution once considered taboo: vaccination.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bird-flu-alarm-drives-world-towards-once-shunned-vaccines-2023-02-17/",
+      "urlToImage": "https://www.reuters.com/resizer/BaezZzZPACKfgkIeHuIbDPU2rOo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A3L6BJ4JWFP2XBURPQXBF4TT3Y.jpg",
+      "publishedAt": "2023-02-17T08:35:00Z",
+      "content": "CASTELNAU-TURSAN, France, Feb 17 (Reuters) - French duck farmer Herve Dupouy has culled his flock four times since 2015 to stop the spread of bird flu but as a wave of deadly outbreaks nears his farm… [+7485 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Barry Svrluga",
+      "title": "Maryland's win over Purdue was how College Park mayhem should feel - The Washington Post",
+      "description": "It felt great to be in College Park on Thursday night, which is just what Maryland basketball fans have been waiting for.",
+      "url": "https://www.washingtonpost.com/sports/2023/02/16/maryland-basketball-court-storm-purdue/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K3CP54B7CNH6VN2ARWICLCPNYQ.jpg&w=1440",
+      "publishedAt": "2023-02-17T06:17:00Z",
+      "content": "Comment on this story\r\nPick a moment, and hold on to it. Julian Reeses conversion underneath off a pretty little bounce pass from Don Carey, forcing a Purdue timeout. Patrick Emiliens dunk in transit… [+5868 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Haley Britzky, Oren Liebermann",
+      "title": "Ukraine is burning through ammunition faster than the US and NATO can produce it. Inside the Pentagon's plan to close the gap - CNN",
+      "description": "Inside a sprawling factory just off the President Biden Expressway in downtown Scranton, Pennsylvania, the future arsenal of Ukraine's war effort is being forged, one red hot artillery shell at a time.",
+      "url": "https://www.cnn.com/2023/02/17/politics/us-weapons-factories-ukraine-ammunition/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230216153335-08-defense-industry-ukraine.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-02-17T05:01:00Z",
+      "content": "Scranton, PennsylvaniaCNN\r\n  — \r\nInside a sprawling factory just off the President Biden Expressway in downtown Scranton, Pennsylvania, the future arsenal of Ukraines war effort is being forged, one … [+9492 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": null,
+      "title": "Pence says Biden’s briefing on downed aerial objects is ‘too little too late’ - The Hill",
+      "description": null,
+      "url": "https://thehill.com/policy/defense/3862501-pence-says-bidens-briefing-on-downed-aerial-objects-is-too-little-too-late/",
+      "urlToImage": null,
+      "publishedAt": "2023-02-17T02:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Miguel Marquez, Meridith Edwards, Rachel Clarke",
+      "title": "MSU professor says gunman looked like a robot as he killed and wounded students - CNN",
+      "description": "Marco Díaz-Muñoz was halfway through his Monday night class in Berkey Hall when a gunman came in his classroom. \"I've never seen so much blood,\" he told CNN after another mass shooting.",
+      "url": "https://www.cnn.com/2023/02/16/us/msu-shooting-professor-marco-diaz-munoz/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230217091030-marco-diaz-munoz.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-02-17T02:30:00Z",
+      "content": "Watch MSU professor Marco Díaz-Muñozs exclusive TV interview with Miguel Marquez tonight on CNN at 9 p.m. ET.\r\nEast Lansing, MichiganCNN\r\n  — \r\nThe noise was so loud it didnt sound like the gunfire f… [+7046 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Paul Best",
+      "title": "Japan discovers 7,000 new unknown islands after fresh survey - Fox News",
+      "description": "Japan's official count of islands within the country's territory is expected to more than double after a new survey by the Geospatial Information Authority.",
+      "url": "https://www.foxnews.com/world/japan-discovers-7000-new-islands-fresh-survey",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/japan.png",
+      "publishedAt": "2023-02-17T01:55:00Z",
+      "content": "The number of official islands in Japan is expected to double from 6,852 to 14,125 after the government conducted the first survey since 1987 of its territorial waters, according to Kyodo News. \r\nJap… [+1314 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Gina Martinez",
+      "title": "Dog flu cases on the rise in some U.S. regions this winter season - CBS News",
+      "description": "Symptoms for dog flu include a cough, runny nose, fever and reduced appetite, according to the CDC.",
+      "url": "https://www.cbsnews.com/news/dog-flu-canine-influenza-rise-winter/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2018/01/30/52545fc1-7e65-4c46-9980-3e810ee27a95/thumbnail/1200x630/6e989f4fd5390d64edb896070c2a875b/dogflu.jpg",
+      "publishedAt": "2023-02-17T01:49:00Z",
+      "content": "Veterinarians are advising dog owners to get their pups vaccinated against the canine influenza as cases have surged in several parts of the U.S. this winter. \r\nCanine influenza, also known as the do… [+2114 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Andrew Miller",
+      "title": "Florida boy dies from infection after twisting ankle on treadmill: 'Complete disbelief' - Fox News",
+      "description": "An 11-year-old boy in Florida has died after twisting his ankle on a treadmill and then suffering from an infection that caused swelling in his brain.",
+      "url": "https://www.foxnews.com/us/florida-boy-dies-infection-twisting-ankle-treadmill-complete-disbelief",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/Jesse1.jpg",
+      "publishedAt": "2023-02-16T21:54:00Z",
+      "content": "The family of an 11-year-old Florida boy says he died from an infection just weeks after twisting his ankle on a treadmill.\r\nJesse Browns family told Fox 35 Orlando\r\n that he was a healthy fifth-grad… [+2073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Everything New in iOS 16.4: Emoji Characters, Web Push Notifications, Beta Installation Simplification, and More - MacRumors",
+      "description": "Apple today released the iOS 16.4, iPadOS 16.4, macOS Ventura 13.3, watchOS 9.4, and tvOS 16.4 updates to developers after a three week wait for new...",
+      "url": "https://www.macrumors.com/2023/02/16/everything-new-ios-16-4/",
+      "urlToImage": "https://images.macrumors.com/t/mt1kwn7UjOEMNYSkdncH_m6xVjw=/2500x/article-new/2023/01/iOS-16.4-Feature-Blue.jpg",
+      "publishedAt": "2023-02-16T21:26:24Z",
+      "content": "Apple today released the iOS 16.4, iPadOS 16.4, macOS Ventura 13.3, watchOS 9.4, and tvOS 16.4 updates to developers after a three week wait for new beta content. The software adds a number of new fe… [+7744 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Ben Turner",
+      "title": "Monster black holes could be the source of dark energy driving the accelerating expansion of the universe, study suggests - Livescience.com",
+      "description": "The expansion of black holes alongside the cosmos could be explained if the cosmic monsters contained dark energy in their cores, the driving force behind the universe’s growth.",
+      "url": "https://www.livescience.com/monster-black-holes-could-be-the-source-of-dark-energy-driving-the-accelerating-expansion-of-the-universe-study-suggests",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yxJUja5UHFs7wWiFz9Jd4T-1200-80.jpg",
+      "publishedAt": "2023-02-16T20:29:11Z",
+      "content": "Supermassive black holes could be the engines driving the expansion of the universe, according to research that proposes a solution to \"one of the biggest problems in cosmology.\" \r\nBy comparing super… [+4295 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sonam Sheth, Jacob Shamsian",
+      "title": "Tucker Carlson: Trump is 'world champion' of destroying things - Business Insider",
+      "description": "\"At this point we're getting hurt no matter what,\" Carlson texted his producer two days after Fox became the first network to call Arizona for Biden, per a new court filing.",
+      "url": "https://www.businessinsider.com/tucker-carlson-trump-world-champion-of-destroying-things-dominion-lawsuit-2023-2",
+      "urlToImage": "https://i.insider.com/63d0123daa91990019ac5184?width=1200&format=jpeg",
+      "publishedAt": "2023-02-16T20:15:00Z",
+      "content": "Two days after Election Day 2020, Fox News host Tucker Carlson texted his producer warning that Fox New's decision to call the state of Arizona for Joe Biden on election night could spell doom for th… [+3833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Scott Mantz",
+      "title": "How ‘Star Trek: Picard’ Created the High-Tech Bridge of Its Newest Starship - Variety",
+      "description": "In just about every way, the third and final season of “Star Trek: Picard” is both about looking back and moving forward. In addition to reuniting the crew of the U.S.S. Enterprise from “The Next G…",
+      "url": "https://variety.com/2023/artisans/news/star-trek-picard-starship-bridge-titan-1235523911/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/02/Star-Trek-Picard-Titan-1.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-02-16T20:00:00Z",
+      "content": "In just about every way, the third and final season of “Star Trek: Picard” is both about looking back and moving forward. In addition to reuniting the crew of the U.S.S. Enterprise from “The Next Gen… [+3263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Skanda Hazarika",
+      "title": "Samsung Galaxy S23 Ultra receives an unofficial TWRP port - XDA Developers",
+      "description": "You can now download an unofficial TWRP recovery build for the Samsung Galaxy S23 Ultra. Read on to know more!",
+      "url": "https://www.xda-developers.com/samsung-galaxy-s23-ultra-twrp-unofficial/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/samsung-galaxy-s23-ultra-colorways-with-twrp-logo.jpg",
+      "publishedAt": "2023-02-16T18:56:00Z",
+      "content": "TeamWin Recovery Project, or TWRP for short, is by far the most popular custom recovery solution in the Android modding scene. Although the tinkering fanbase has significantly dwindled over the years… [+2101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Antarctica's \"Doomsday Glacier\" In Trouble| Scientists Share Alarming Discovery - Firstpost",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhPAhbF5finw",
+      "urlToImage": null,
+      "publishedAt": "2023-02-16T13:56:53Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "Before global warming, was the Earth cooling down or heating up? - Phys.org",
+      "description": "Accurate climate models play a critical role in climate science and policy, helping to inform policy- and decision-makers throughout the world as they consider ways to slow the deadly effects of a warming planet and to adapt to changes already in progress.",
+      "url": "https://phys.org/news/2023-02-global-earth-cooling.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/world-climate.jpg",
+      "publishedAt": "2023-02-15T16:10:01Z",
+      "content": "Accurate climate models play a critical role in climate science and policy, helping to inform policy- and decision-makers throughout the world as they consider ways to slow the deadly effects of a wa… [+8185 chars]"
+    }
+  ]
+}
