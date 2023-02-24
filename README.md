@@ -5,6 +5,9 @@ It is a news tracking application developed with Kotlin. MVVM Clean Architecture
 
 The purpose of this repository is to serve as a guide for beginners.
 
+![cover_image](https://user-images.githubusercontent.com/50443794/221132843-afb1e82f-c7e1-4fdb-a695-bcec2d10d26b.png)
+
+
 ## Setup
 
 * Clone the repository
