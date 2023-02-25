@@ -14,7 +14,7 @@ The purpose of this repository is to serve as a guide for beginners.
 * [Preview](https://github.com/kerimbr/KotNews#preview)
 * [Setup](https://github.com/kerimbr/KotNews#setup)
 * [Project Folder Structure](https://github.com/kerimbr/KotNews#project-folder-structure)
-* [Project Architecture]https://github.com/kerimbr/KotNews#project-architecture)
+* [Project Architecture](https://github.com/kerimbr/KotNews#project-architecture)
 * [Dependencies](https://github.com/kerimbr/KotNews#dependencies)
 
 
