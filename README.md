@@ -11,11 +11,11 @@ The purpose of this repository is to serve as a guide for beginners.
 
 ## Contents
 
-* [Preview](https://github.com/kerimbr/KotNews/edit/main/README.md#preview)
-* [Setup](https://github.com/kerimbr/KotNews/edit/main/README.md#setup)
-* [Project Folder Structure](https://github.com/kerimbr/KotNews/edit/main/READMEmd#project-folder-structure)
-* [Project Architecture](https://github.com/kerimbr/KotNews/edit/main/README.md#project-architecture)
-* [Dependencies](https://github.com/kerimbr/KotNews/edit/main/README.md#dependencies)
+* [Preview](https://github.com/kerimbr/KotNews#preview)
+* [Setup](https://github.com/kerimbr/KotNews#setup)
+* [Project Folder Structure](https://github.com/kerimbr/KotNews#project-folder-structure)
+* [Project Architecture]https://github.com/kerimbr/KotNews#project-architecture)
+* [Dependencies](https://github.com/kerimbr/KotNews#dependencies)
 
 
 ## Preview
