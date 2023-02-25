@@ -8,6 +8,23 @@ The purpose of this repository is to serve as a guide for beginners.
 ![cover_image](https://user-images.githubusercontent.com/50443794/221132843-afb1e82f-c7e1-4fdb-a695-bcec2d10d26b.png)
 
 
+
+## Contents
+
+* [Preview](https://github.com/kerimbr/KotNews/edit/main/README.md#preview)
+* [Setup](https://github.com/kerimbr/KotNews/edit/main/README.md#setup)
+* [Project Folder Structure](https://github.com/kerimbr/KotNews/edit/main/READMEmd#project-folder-structure)
+* [Project Architecture](https://github.com/kerimbr/KotNews/edit/main/README.md#project-architecture)
+* [Dependencies](https://github.com/kerimbr/KotNews/edit/main/README.md#dependencies)
+
+
+## Preview
+
+https://user-images.githubusercontent.com/50443794/221346640-6aebc6b3-d279-46da-8358-3f6ac10d7792.mp4
+
+
+
+
 ## Setup
 
 * Clone the repository
@@ -83,4 +100,17 @@ In this project, a modular architecture is designed using Clean Architecture and
 
 
 
+## Dependencies
+
+* Navigation
+* Coroutines
+* Retrofit
+* GSON
+* OkHttp
+* Lifecycle [ViewModel - LiveData]
+* Dagger & Hilt
+* Glide
+* Paging 3
+* Lottie
+* Room
 
