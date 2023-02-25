@@ -72,3 +72,15 @@ This class extends the ```Application``` class and is annotated with the ```@Hil
 @HiltAndroidApp
 class App: Application()
 ```
+
+
+## Project Architecture 
+
+In this project, a modular architecture is designed using Clean Architecture and MVVM approaches to make the development and maintenance of the application easier. Clean Architecture ensures that each layer of the application is independent of each other and responsible for a specific task.
+
+
+![KotNews Architecture](https://user-images.githubusercontent.com/50443794/221345332-1ea66c9d-8ece-4c7b-8475-82d4f24f434a.jpg)
+
+
+
+
