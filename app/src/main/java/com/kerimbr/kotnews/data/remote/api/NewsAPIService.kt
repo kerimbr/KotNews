@@ -32,11 +32,14 @@ interface NewsAPIService {
         @Query("q")
         searchQuery: String,
 
+        @Query("language")
+        language: String? = DEFAULT_COUNTRY,
+
         @Query("searchIn")
         searchIn: String = SearchNewsQueries.SearchIn.TITLE.value,
 
         @Query("sortBy")
-        sortBy: String = SearchNewsQueries.SortBy.RELEVANCY.value,
+        sortBy: String = SearchNewsQueries.SortBy.POPULARITY.value,
 
         @Query("apiKey")
         apikey: String = API_KEY
